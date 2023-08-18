@@ -51,8 +51,8 @@
 
 
 [![NetFlix Data Anlaysis](/images/Netflix.png)](https://public.tableau.com/app/profile/malvika3029/viz/Netflix_data_16909439022870/Netflix)
-[![Image 2 Description](path_to_second_image.jpg)](link_for_second_image)
-[![Image 3 Description](path_to_third_image.jpg)](link_for_third_image)
+[![NetFlix Data Anlaysis](/images/Netflix.png)](https://public.tableau.com/app/profile/malvika3029/viz/Netflix_data_16909439022870/Netflix)
+[![NetFlix Data Anlaysis](/images/Netflix.png)](https://public.tableau.com/app/profile/malvika3029/viz/Netflix_data_16909439022870/Netflix)
 <!-- Add more images as desired -->
 <!-- Add more images as desired -->
 

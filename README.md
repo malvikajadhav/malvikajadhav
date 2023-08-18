@@ -47,13 +47,4 @@
   <img alt="Git Pages" src="https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white" />
 </p>
 
-<div style="display: flex; overflow-x: auto; white-space: nowrap;">
-
-
-[![NetFlix Data Anlaysis](/images/Netflix.png)](https://public.tableau.com/app/profile/malvika3029/viz/Netflix_data_16909439022870/Netflix)
-[![NetFlix Data Anlaysis](/images/Netflix.png)](https://public.tableau.com/app/profile/malvika3029/viz/Netflix_data_16909439022870/Netflix)
-[![NetFlix Data Anlaysis](/images/Netflix.png)](https://public.tableau.com/app/profile/malvika3029/viz/Netflix_data_16909439022870/Netflix)
-<!-- Add more images as desired -->
-<!-- Add more images as desired -->
-
-</div>
+<h3>My current Tableau Endeavors:</h3>

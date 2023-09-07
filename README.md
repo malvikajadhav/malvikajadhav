@@ -5,7 +5,7 @@
 <h1>Hi I'm Malvika!</h1>
 <h2>Hello from sunny Florida, where I'm unraveling Android app mysteries at the Florida Institute of Cybersecurity! 🔍 With big data by my side, and tools like Docker and reverse engineering in my toolkit, I’m on the lookout for vulnerabilities. My days involve automation pipelines, dynamic analysis, and ensuring our personal info stays personal. Let’s make the digital world a tad safer, one app at a time! 📱 #SafetyFirst #DataDetective #DataPrivacyAdvocate</h2>
 
-<h3><a href="https://git.io/streak-stats">Check out my work and join me on this journey to make our digital pockets a bit more secure! 💼📱</a></h3>
+<h3><a href="https://malvikajadhav.github.io/">Check out my work and join me on this journey to make our digital pockets a bit more secure! 💼📱</a></h3>
 
 <h3>Things I code with</h3>
 
